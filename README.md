@@ -1,1 +1,0 @@
-# Problems_of_Informatization_education
