@@ -1,35 +1,36 @@
 # Проблемы информатизации гуманитарного образования
 
-В каждая папка соответствует одной в теме в систему Moodle и в каждой из них находятся: постановка задачи и результаты, а может даже формулы =)
+В каждая папка соответствует одной в теме в систему Moodle.
+Так что нажимай на ссылки и наслаждайся =)
 
 
-## Тема 1 - Модули. Пакеты
+## Занятие 1 - Информатизация общества и образования
 
->[Инвариантная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%201/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F)
-
->[Вариативная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%201/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F)
-
-## Тема 2 - Итераторы
-
->[Инвариантная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%202/%D0%98%D0%BD%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
-
->[Вариативная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%202/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
-
-
-## Тема 3 - Введение в ООА, шаблоны проектирования
-
->[Инвариантная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%203/%D0%98%D0%BD%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BD%D0%B0%D1%8F)
-
->[Вариативная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%203/%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F)
-
-
-## Тема 4 - Построение графиков на Python
-
->[Инвариантная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%204/%D0%98%D0%BD%D0%B2%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BD%D0%B0%D1%8F/qr)
-
->[Вариативная самостоятельная работа (ИСР)](https://github.com/TradesMark/python-6/tree/master/%D0%A2%D0%B5%D0%BC%D0%B0%204/%D0%92%D0%B0%D1%80%D0%B8%D0%B0%D0%BD%D1%82%D0%BD%D0%B0%D1%8F/price)  
+>[Перейти к ДЗ 1](https://github.com/TradesMark/Problems_of_Informatization_education/tree/main/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_1)
 
 
 ***
+
+
+## Занятие 2 - Влияние информатизации и цифровизации на общественное развитие
+
+>[Перейти к ДЗ 2](https://github.com/TradesMark/Problems_of_Informatization_education/tree/main/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_2)
+
+
 ***
 
+
+## Занятие 3 - Развитие человека в современном информационном мире
+
+>[Перейти к ДЗ 3](https://github.com/TradesMark/Problems_of_Informatization_education/tree/main/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_3)
+
+
+***
+
+
+## Занятие 4 - Образовательная среда и цифровая образовательная среда: соотношение понятий
+
+>[Перейти к ДЗ 4](https://github.com/TradesMark/Problems_of_Informatization_education/tree/main/%D0%97%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B5_4)
+
+
+***
