@@ -40,4 +40,4 @@
 
 ## Выступление
 
->[Перейти к презентации](https://slides.com/antonio4703/deck-656106/edit#/2)
+>[Перейти к презентации](https://slides.com/antonio4703/deck-656106/live)
